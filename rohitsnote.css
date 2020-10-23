@@ -1,0 +1,58 @@
+h1 {
+  color: #FFFFFF;
+  text-align: center;
+  letter-spacing: 1px;
+  font-size: 60px;
+  text-shadow: 0 0 0px white;
+  margin:0px;
+}
+h2{
+font-size: 25px;
+font-weight:bold;
+}
+body{
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-color:#5785c0;
+margin:0px;
+color: #FFFFFF;
+text-align: center;
+font-size: 20px;
+}
+body{
+  background-image: url("https://rohitsnote.github.io/sky.png");
+}
+@media only screen and (min-width: 400px) {
+body{
+  background-image: url("https://rohitsnote.github.io/20171003_114433.jpg");
+  background-size:100% 100%;
+}
+}
+div {
+  background: rgb(87, 133, 192);
+  padding: 10px;
+}
+
+div.first {
+  background: rgba(87, 133, 192, 0.5);
+}
+pre{
+  line-height:1.8;
+  white-space: pre-wrap;
+}
+a:link {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+a:visited {
+  color: powderblue;
+  text-decoration: none;
+}
+a:active {
+  color: blue;
+   text-decoration: underline;
+}
+a:hover {
+  text-decoration: underline;
+  color: powderblue;
+}

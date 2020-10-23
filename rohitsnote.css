@@ -40,6 +40,7 @@ div.first {
 pre{
   line-height:1.8;
   white-space: pre-wrap;
+  font-family: Arial;
 }
 a:link {
   color: #FFFFFF;

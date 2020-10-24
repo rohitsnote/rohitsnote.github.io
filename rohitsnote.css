@@ -31,7 +31,7 @@ body{
 }
 div {
   background-color: 	rgba(51, 51, 53,0.3);
-  white-space:pre;
+  white-space:pre-wrap;
   width: auto;
   padding-left: auto;
   margin-top:0px;

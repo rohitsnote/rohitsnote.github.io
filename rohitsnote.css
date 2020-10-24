@@ -21,11 +21,11 @@ font-size: 20px;
   font-family: Arial;
 }
 body{
-  background-image: url("https://rohitsnote.github.io/sky.png");
+  background-image: url("https://rohitsnote.github.io/sky_at_5_potrait0.jpg");
 }
 @media only screen and (min-width: 400px) {
 body{
-  background-image: url("https://rohitsnote.github.io/20171003_114433.jpg");
+  background-image: url("https://rohitsnote.github.io/sky_at_5_landscape1.jpg");
   background-size:100% 100%;
 }
 }
